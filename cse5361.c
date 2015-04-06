@@ -14,7 +14,7 @@
 #include <linux/jiffies.h>
 #include <linux/semaphore.h>
 
-#define MAX_QUEUE_SIZE	512
+#define MAX_QUEUE_SIZE	1024
 #define CSE536_MAJOR 234
 #define IPPROTO_CSE536_PROTONUM 234
 
