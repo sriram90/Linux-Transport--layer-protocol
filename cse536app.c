@@ -13,7 +13,7 @@
 #include <fcntl.h>
 #include <sys/stat.h>
 
-#define SERVER_PORT 23456 
+#define SERVER_PORT 2345
 
 int send_data_to_monitor(char* buf);
 
